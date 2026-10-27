@@ -2,7 +2,7 @@
 
 > Notebook especialista em Análise de Dados, criado no Gemini Notebook (antigo NotebookLM) a partir de fontes que eu selecionei.
 
-**Link do notebook compartilhado:** [COLE AQUI O LINK DO NOTEBOOK]
+**Link do notebook compartilhado:** https://notebook.google.com/notebook/8140f434-9b07-40f3-8304-f8a8546ba824
 
 ---
 
